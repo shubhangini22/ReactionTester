@@ -1,5 +1,13 @@
 .hd{
-    align-content: center ;
-    margin-top:100px ;
-    background-color:aqua ;
+    align-content: space-around;
+    margin-top:20px;
+    margin-left:30px;
+    color:rgba(230, 181, 133, 0.701);
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#s1{
+    width: 200px;
+    height: 200px;
+    background-color: chartreuse;
 }

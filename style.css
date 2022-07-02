@@ -12,6 +12,7 @@ body {
     background-color: red;
     display: none;
     position: relative;
+    /*positioned relative to its normal position,so that we can randomize positions easily*/
     
 }
 
